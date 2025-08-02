@@ -1,4 +1,4 @@
-#include "MyApp.h"
+#include "FREAKOUT.h"
 
 int WINAPI WinMain(	HINSTANCE	hInstance,
 					HINSTANCE	hPrevInstance,
