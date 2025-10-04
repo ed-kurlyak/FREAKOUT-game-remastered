@@ -507,7 +507,7 @@ void CMyApp::RenderScene()
 
 	//печатаем score в заголовке окна
 	char buff[256];
-	sprintf_s(buff, 256, "FREAKOUT by Andre' LaMothe (с) 1999 Remastered - SCORE %d", m_Score);
+	sprintf_s(buff, 256, "FREAKOUT by Andre' LaMothe (с) 1999-2025 Remastered by Ed Kurlyak - SCORE %d", m_Score);
 	SetWindowText(m_hWnd, buff);
 
 	Present_BackBuffer();

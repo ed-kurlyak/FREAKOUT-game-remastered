@@ -24,4 +24,4 @@ All rendering is done using GDI functions and in-memory backbuffering, without a
 2. Build the project using or **Debug x86** configuration.
 3. Run the resulting `.exe` file.
 
-<img src="https://github.com/ed-kurlyak/freakout-remastered/blob/main/pics/freakout.jpg">
+<img src="https://github.com/ed-kurlyak/freakout-remastered/blob/main/pics/freakout.png">
